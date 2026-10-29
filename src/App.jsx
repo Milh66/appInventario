@@ -3,7 +3,7 @@ import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
-import CrudProductos from './components/Productos/CrudProductos'
+import CrudProductos from './components/Productos/crudProductos'
 
 function App() {
   return (
